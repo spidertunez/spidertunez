@@ -8,7 +8,7 @@
 
 ### Pac-Man 🕹️
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spidertunez/spidertunez/output/pacman-contribution-graph.svg" alt="Pac-Man Animation" />
+  <img src="https://raw.githubusercontent.com/spidertunez/spidertunez/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Animation" />
 </p>
 
 ###
